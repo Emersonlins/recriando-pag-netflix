@@ -1,10 +1,10 @@
 # Desafio de projeto Html Developer DIO.
 
-***Utilizando como base a interface da Netflix criei um projeto tendo como inspiração meu***
+***Utilizando como base a interface da Netflix criei o Galoflix***
 
-***time de coração o Clube Atlético Mineiro.***
+***simulando uma interface de um streaming do Clube Atlético Mineiro***
 
-***O Galão da massa!!!***
+***gols, títulos, ídolos, e documentários.***
 
 
 
