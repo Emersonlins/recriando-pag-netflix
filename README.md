@@ -4,7 +4,7 @@
 
 ***simulando uma interface de um streaming do Clube Atlético Mineiro***
 
-***com gols, títulos, ídolos,filmes e documentários relacionados ao clube.***
+***com gols, títulos, ídolos, filmes e documentários relacionados ao clube.***
 
 
 
