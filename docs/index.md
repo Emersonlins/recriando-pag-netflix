@@ -5,3 +5,5 @@
 ***simulando uma interface com conteúdos de mídia do Clube Atlético Mineiro***
 
 ***com gols, títulos, ídolos, filmes e documentários relacionados ao clube.***
+
+<a href="https://atletico.com.br/futebol/masculino/titulos/"target="_blank" rel="external">Títulos</a>
