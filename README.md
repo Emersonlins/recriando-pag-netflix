@@ -6,6 +6,8 @@
 
 ***com gols, títulos, ídolos, filmes e documentários relacionados ao clube.***
 
+## Inclusões de funcionalidades:
+
 - Inclusão link s externos aba superior de navegação
 
 - Inclusão target=blank
