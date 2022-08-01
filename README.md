@@ -8,11 +8,11 @@
 
 ## Inclusão de funcionalidades:
 
-- Inclusão link s externos aba superior de navegação
+- Inclusão link s externos aba superior de navegação.
 
-- Inclusão target=blank
+- Inclusão "target="_blank" e rel="external".
 
--
+- Github pages.
 
 
 
