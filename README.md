@@ -6,6 +6,9 @@
 
 ***com gols, títulos, ídolos, filmes e documentários relacionados ao clube.***
 
+- Inclusão link s externos aba superior de navegação
+
+- Inclusão target=blank
 
 
 
